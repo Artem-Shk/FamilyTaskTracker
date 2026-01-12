@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../../../../../../source/repos/familyTaskTracker/FamilyTaskTracker.csproj" />
+  <Project Path="../../../../../../source/repos/FamilyTaskTrackerClient/familytasktrackerclient.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
